@@ -126,25 +126,30 @@ Client → URL → View → ORM → Response
 🛠️ Features
 
 🗂️ Database System
+
 Student model with name, age, course fields
 SQLite database powered by Django ORM
 
 🔐 Authentication System
+
 User login and logout system
 Session-based authentication handling
 Protected API endpoints
 
 🌐 REST-Style API System
+
 JSON-based API responses
 CRUD endpoints for student management
 Resource-based URL design
 
 🔗 URL System
+
 Clean REST-style routing
 Dynamic endpoints using IDs
 Separation of API logic per endpoint
 
 🧪 Backend Development Skills Practiced
+
 Django project setup from scratch
 App-based modular architecture
 ORM-based database design
@@ -155,6 +160,7 @@ Git version control workflow
 Backend debugging and error handling
 
 🧠 Key Takeaways
+
 Django is a full backend framework, not just a library
 ORM replaces manual SQL queries
 APIs should return structured JSON data
