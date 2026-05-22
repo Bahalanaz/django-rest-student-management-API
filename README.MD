@@ -124,21 +124,26 @@ Client → URL → View → ORM → Response
 👉 Core Idea: This is the foundation of all backend APIs.
 
 🛠️ Features
+
 🗂️ Database System
 Student model with name, age, course fields
 SQLite database powered by Django ORM
+
 🔐 Authentication System
 User login and logout system
 Session-based authentication handling
 Protected API endpoints
+
 🌐 REST-Style API System
 JSON-based API responses
 CRUD endpoints for student management
 Resource-based URL design
+
 🔗 URL System
 Clean REST-style routing
 Dynamic endpoints using IDs
 Separation of API logic per endpoint
+
 🧪 Backend Development Skills Practiced
 Django project setup from scratch
 App-based modular architecture
@@ -148,6 +153,7 @@ Authentication handling
 JSON API response formatting
 Git version control workflow
 Backend debugging and error handling
+
 🧠 Key Takeaways
 Django is a full backend framework, not just a library
 ORM replaces manual SQL queries
@@ -156,6 +162,7 @@ Authentication is essential for backend security
 URLs should represent resources, not actions
 Backend systems are layered and modular
 Proper project structure is critical for scalability
+
 🚀 Outcome
 
 By completing this project, I now understand:
@@ -171,4 +178,4 @@ This project forms a strong foundation for:
 Django REST Framework
 JWT authentication systems
 Production-level backend APIs
-Scalable backend architecture design
+Scalable backend architecture designs
